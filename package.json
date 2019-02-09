@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/kabirutd/invoicing-app-4/issues"
   },
-  "homepage": "https://github.com/kabirutd/invoicing-app-4#readme"
+  "homepage": "https://github.com/kabirutd/invoicing-app-4#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "sqlite3": "^4.0.6",
+    "umzug": "^2.2.0"
+  }
 }
