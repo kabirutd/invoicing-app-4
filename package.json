@@ -1,0 +1,24 @@
+{
+  "name": "invoicing-app-4",
+  "version": "1.0.0",
+  "description": "Invoicing App - A Sample App using node.js, SQLite, and vue.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabirutd/invoicing-app-4.git"
+  },
+  "keywords": [
+    "nodejs",
+    "vuejs",
+    "sqlite"
+  ],
+  "author": "Mohammad Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabirutd/invoicing-app-4/issues"
+  },
+  "homepage": "https://github.com/kabirutd/invoicing-app-4#readme"
+}
