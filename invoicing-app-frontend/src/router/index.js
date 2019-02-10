@@ -23,6 +23,6 @@ export default new Router({
       path: '/invoices',
       name: 'SingleInvoice',
       component: SingleInvoice,
-    }
-  ]
+    },
+  ],
 });
